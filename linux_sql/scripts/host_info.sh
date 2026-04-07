@@ -20,6 +20,7 @@ cpu_number=$(echo "$lscpu" | awk -F: '/^CPU\(s\)/{gsub(/ /,"",$2); print $2}')
 cpu_architecture=$(echo "$lscpu" | awk -F: '/^Architecture/{gsub(/ /,"",$2); print $2}')
 cpu_model=$(echo "$lscpu" | awk -F: '/^Model name/{gsub(/^[ \t]+/,"",$2); print $2}')
 cpu_mhz=$(echo "$lscpu" | awk -F: '/^CPU MHz/ {gsub(/^[ \t]+/,"",$2); print $2}')
+cpu_mhz=${cpu_mhz:-0}
 l2_cache=$(echo "$lscpu" | awk -F: '/^L2 cache/ {gsub(/[^0-9]/,"",$2); print $2}')
 total_mem=$(echo "$meminfo" | awk '/^MemTotal/ {print $2}')
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
