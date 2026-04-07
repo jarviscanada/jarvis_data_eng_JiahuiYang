@@ -28,7 +28,7 @@ crontab -e
 * * * * * bash /home/rocky/dev/jarvis_data_eng_JiahuiYang/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres password
 ```
 
-# Implemenation
+# Implementation
 
 This project implements monitoring system that collects system-level data from multiple Linux hosts and stores it in a centralized PostgreSQL database. The solution is designed to be simple, modular, and easy to deploy using Bash scripts and Docker.
 
