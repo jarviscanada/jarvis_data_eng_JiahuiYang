@@ -26,6 +26,7 @@ psql -h localhost -U postgres -d host_agent -f sql/ddl.sql
 # 6. Setup cron job (run every minute)
 crontab -e
 * * * * * bash /home/rocky/dev/jarvis_data_eng_JiahuiYang/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres password
+```
 
 # Implemenation
 
