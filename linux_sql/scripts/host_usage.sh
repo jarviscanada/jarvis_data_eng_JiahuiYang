@@ -20,7 +20,7 @@ cpu_kernel=$(echo "$vmstat_mb" | awk '{print $14}' | tail -n1 | xargs)
 disk_io=$(vmstat -d | awk '{print $10}' | tail -n1 | xargs)
 disk_available=$(df -BM / | awk '{print $4}' | tail -n1 | sed 's/M//')
 
-timestamp=$(vmstat -t | awk '{print $18, $19}' | tail -n1)
+timestamp=$(vmstat -t | tail -1 | awk '{print $(NF-1), $NF}')
 
 host_id="(SELECT id FROM host_info WHERE hostname='$hostname')"
 
