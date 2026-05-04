@@ -24,7 +24,7 @@ In this PoC project, I analyzed transaction data stored in a PostgreSQL data war
 </p>
 
 ## Data Analytics and Wrangling
-- Jupyter Notebook: [Retail Data Analytics](./retail_data_analytics_wrangling.ipynb)
+- Jupyter Notebook: [Retail Data Analytics](./python_data_wrangling/retail_data_analytics_wrangling.ipynb)
 - Use **Recency, Frequency, Monetary (RFM)** metrics to calculate customer value and segment customers into groups such as *Champions, Loyal Customers, At Risk, and Hibernating*
 - Focus on **high-value customers** (recent, frequent, high spend) with loyalty programs and targeted promotions to maximize revenue
 - Analyze **monthly sales trends and growth rates** to identify peak periods and optimize marketing timing
