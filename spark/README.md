@@ -1,6 +1,7 @@
 # Introduction
 Traditional data analytics solutions built with Python and Jupyter Notebooks are limited by the resources of a single 
 machine and may struggle to efficiently process large datasets. To address this challenge, this project evaluates Apache Spark as a distributed computing framework capable of performing large-scale data processing across a cluster environment.
+
 The project explores two Spark-based platforms: Zeppelin running on Hadoop and Databricks running on Azure. In the Zeppelin implementation, I analyzed the WDI dataset using Hadoop HDFS, Hive, Zeppelin, and PySpark. In the Databricks implementation, I developed a financial transaction analytics ETL pipeline and a DLT  stock market analytics pipeline using Azure SQL Database, Azure Data Lake Storage Gen2 (ADLS), Databricks, Unity Catalog, DBFS, and PySpark. These projects demonstrate data ingestion, transformation, analytics, dashboard development, and workflow orchestration using modern data engineering technologies.
 # Databricks Implementation
 ## Dataset and Analytics Work
@@ -15,7 +16,8 @@ The datasets used include:
 - users_data.csv
 - mcc_codes.json
 - train_fraud_labels.json
-- The pipeline follows a Medallion Architecture (Bronze, Silver, Gold).
+
+The pipeline follows a Medallion Architecture (Bronze, Silver, Gold).
 
 The implementation was split into three notebooks:
 
