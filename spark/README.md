@@ -104,4 +104,4 @@ The diagram below shows the architecture of the project.
 
 2. Improve the scalability and performance of the data pipelines to handle larger datasets and increasing data volumes.
 
-3. Enhance data visualization and reporting capabilities by providing more interactive dashboards and analytical insights.
+3. Enhance data visualization and reporting capabilities by providing more interactive dashboards and analytical insights
