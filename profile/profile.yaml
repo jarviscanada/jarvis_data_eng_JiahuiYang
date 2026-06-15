@@ -45,7 +45,7 @@ jarvis_projects:
       - Developed Bash scripts to extract hardware specifications (CPU, memory, disk) and real-time usage data, and stored structured data in a PostgreSQL database for centralized monitoring.
       - Containerized the database using Docker for portability and simplified deployment.
       - Automated data collection using cron jobs, enabling continuous tracking of system performance and resource utilization.
-  - name: "Python Data Analytics "
+  - name: "Python Data Analytics"
     git_url: "/python_data_analytics"
     description:
       - Performed data analytics on London Gift Shop (LGS) retail transaction data using Python, Pandas, and NumPy to uncover customer purchasing patterns and support targeted marketing strategies.
