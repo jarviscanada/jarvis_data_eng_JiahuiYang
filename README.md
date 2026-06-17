@@ -22,7 +22,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
   - Containerized the database using Docker for portability and simplified deployment.
   - Automated data collection using cron jobs, enabling continuous tracking of system performance and resource utilization.
 
-**Python Data Analytics ** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang/tree/master/python_data_analytics)]:
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang/tree/master/python_data_analytics)]:
       
   - Performed data analytics on London Gift Shop (LGS) retail transaction data using Python, Pandas, and NumPy to uncover customer purchasing patterns and support targeted marketing strategies.
   - Cleaned and transformed retail sales data by handling missing values, filtering cancelled transactions, and calculating revenue metrics for analysis.
