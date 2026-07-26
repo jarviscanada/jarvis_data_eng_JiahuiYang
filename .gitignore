@@ -22,3 +22,14 @@ __pycache__/
 .npm/
 
 .DS_Store
+
+# ML artifacts
+*.pkl
+*.npy
+
+# Data files
+data/
+*.csv
+
+# Model outputs
+models/
