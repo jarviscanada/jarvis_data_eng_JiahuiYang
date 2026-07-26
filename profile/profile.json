@@ -55,6 +55,16 @@
       ],
       "git_url": "/spark",
       "name": "Spark"
+    },
+    {
+      "description": [
+        "Built an end-to-end credit risk prediction system using the Home Credit dataset with over 300,000 loan applications.",
+        "Performed EDA, feature engineering, customer segmentation, model training, hyperparameter tuning, SHAP explainability, and PSI-based model monitoring.",
+        "Compared Logistic Regression, Random Forest, and Gradient Boosting models using AUROC, Gini, KS, and AUPRC metrics.",
+        "Developed a production-ready Scikit-learn Pipeline and generated model validation documentation following financial industry best practices."
+      ],
+      "git_url": "/capstone",
+      "name": "Home Credit Default Risk : End-to-End Credit Scoring System"
     }
   ],
   "name": "Jiahui Yang",
@@ -78,9 +88,9 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Worked in an Agile environment following GitFlow-based development workflows to deliver hands-on projects in Python, SQL, Linux, Apache Spark, Databricks, and cloud platforms, including ETL pipelines and data analytics solutions.",
+      "description": "Worked in an Agile environment following GitFlow-based development workflows to deliver hands-on machine learning, data engineering, and analytics projects using Python, SQL, Linux, Apache Spark, Databricks, and cloud platforms, including predictive modeling, ETL pipelines, customer segmentation, model explainability, and data analytics solutions.",
       "duration": "Mar 2026-present",
-      "title": "Data Engineer/Software Developer"
+      "title": "Jr. Machine Learning Engineer"
     },
     {
       "company": "Invision Trading",
@@ -91,14 +101,14 @@
   ],
   "skills": {
     "competent": [
+      "Scikit-learn",
       "Docker",
       "Databricks",
       "Azure",
-      "Apache Spark",
-      "Power BI"
+      "Apache Spark"
     ],
     "familiar": [
-      "Zeppelin",
+      "Generative AI / LLMs",
       "AWS",
       "Apache Airflow",
       "Apache Kafka",
@@ -107,11 +117,12 @@
     "proficient": [
       "Python",
       "Linux/Bash",
+      "Machine Learning",
       "ETL",
       "RDBMS/SQL",
       "Agile/Scrum",
       "Git"
     ]
   },
-  "summary": "Early-career engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python and SQL, with experience building end-to-end ETL pipelines and designing cloud-based solutions on the Azure platform. Proven ability to collaborate with cross-functional teams to deliver reliable, scalable solutions, with a strong focus on efficiency, quality, and continuous learning."
+  "summary": "Early-career Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, and machine learning, with experience developing end-to-end predictive modeling solutions, including feature engineering, model training, evaluation, explainability, and monitoring. Proven ability to collaborate with cross-functional teams to deliver reliable, scalable, and data-driven solutions, with a strong focus on efficiency, quality, and continuous learning."
 }
