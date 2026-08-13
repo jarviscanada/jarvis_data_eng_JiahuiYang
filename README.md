@@ -1,10 +1,10 @@
 # Jiahui Yang . Jarvis Consulting
 
-Early-career Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, and machine learning, with experience developing end-to-end predictive modeling solutions, including feature engineering, model training, evaluation, explainability, and monitoring. Proven ability to collaborate with cross-functional teams to deliver reliable, scalable, and data-driven solutions, with a strong focus on efficiency, quality, and continuous learning.
+Early-career Data Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, Spark, and cloud-based data engineering, with experience building end-to-end ETL pipelines, designing scalable data solutions, and developing machine learning workflows. Proven ability to collaborate with cross-functional teams to deliver reliable, scalable, and data-driven solutions, with a strong focus on efficiency, quality, and continuous learning.
 
 ## Skills
 
-**Proficient:** Python, Linux/Bash, Machine Learning, ETL, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Linux/Bash, ETL, Machine Learning, RDBMS/SQL, Agile/Scrum, Git
 
 **Competent:** Scikit-learn, Docker, Databricks, Azure, Apache Spark
 
@@ -50,7 +50,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
 
 ## Professional Experiences
 
-**Jr. Machine Learning Engineer, Jarvis (Mar 2026-present)**: Worked in an Agile environment following GitFlow-based development workflows to deliver hands-on machine learning, data engineering, and analytics projects using Python, SQL, Linux, Apache Spark, Databricks, and cloud platforms, including predictive modeling, ETL pipelines, customer segmentation, model explainability, and data analytics solutions.
+**Jr. Data/ML Engineer, Jarvis (Mar 2026-present)**: Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, machine learning, and analytics solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.
 
 **Data Analytics Internship, Invision Trading (May 2025-Dec 2025)**: Performed end-to-end data processing and feature engineering on financial datasets of over 5,000 mutual fund schemes using Python (Pandas), including data cleaning, normalization, and preparation for analysis. Developed a data-driven scoring model to identify top-performing funds based on return and risk metrics. Designed interactive Power BI dashboards to visualize key financial indicators and support data-driven investment decision-making.
 
