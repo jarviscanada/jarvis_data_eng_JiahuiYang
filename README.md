@@ -4,11 +4,11 @@ Early-career Data Engineer with a Master's degree in Electrical and Computer Eng
 
 ## Skills
 
-**Proficient:** Python, Linux/Bash, ETL, Machine Learning, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Apache Spark, Linux/Bash, ETL, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Scikit-learn, Docker, Databricks, Azure, Apache Spark
+**Competent:** Databricks, Microsoft Azure, Machine Learning, Scikit-learn, Docker
 
-**Familiar:** Generative AI / LLMs, AWS, Apache Airflow, Apache Kafka, Apache Hadoop
+**Familiar:** Generative AI/LLMs, AWS, Apache Airflow, Apache Kafka, Apache Hadoop
 
 ## Jarvis Projects
 
@@ -34,7 +34,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
   - Built an ETL pipeline following the Medallion Architecture (Bronze, Silver, and Gold) in Azure Databricks to ingest, clean, and analyze fraud detection data, create dashboards from gold tables, and orchestrate automated workflows using Databricks Jobs.
   - Built a DLT pipeline following the Medallion Architecture (Bronze, Silver, and Gold) in Databricks to automate stock market data ingestion, transformation, dashboard reporting, and workflow orchestration.
 
-**Home Credit Default Risk : End-to-End Credit Scoring System** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang/tree/master/capstone)]:
+**Home Credit Default Risk: End-to-End Credit Scoring System** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang/tree/master/capstone)]:
       
   - Built an end-to-end credit risk prediction system using the Home Credit dataset with over 300,000 loan applications.
   - Performed EDA, feature engineering, customer segmentation, model training, hyperparameter tuning, SHAP explainability, and PSI-based model monitoring.
@@ -50,7 +50,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
 
 ## Professional Experiences
 
-**Jr. Data/ML Engineer, Jarvis (Mar 2026-present)**: Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, machine learning, and analytics solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.
+**Jr. Data Engineer, Jarvis (Mar 2026-present)**: Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, analytics, and machine learning solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.
 
 **Data Analytics Internship, Invision Trading (May 2025-Dec 2025)**: Performed end-to-end data processing and feature engineering on financial datasets of over 5,000 mutual fund schemes using Python (Pandas), including data cleaning, normalization, and preparation for analysis. Developed a data-driven scoring model to identify top-performing funds based on return and risk metrics. Designed interactive Power BI dashboards to visualize key financial indicators and support data-driven investment decision-making.
 
@@ -62,8 +62,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
 
 
 ## Miscellaneous
-- Microsoft Certified: Azure Data Engineer Associate (2024)
-- IBM Data Engineering Professional Certificate (2023)
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- IBM Data Engineering Professional Certificate
 - Cooking and exploring new recipes
 - Driving and road trips
 - Regular gym training and fitness
