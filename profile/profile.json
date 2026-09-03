@@ -18,12 +18,12 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang",
   "highlighted_projects": [
     {
-      "description": "Designed and implemented an end-to-end data pipeline on Azure to ingest, transform, and analyze data for business reporting. Built data ingestion workflows using Azure Data Factory to extract data from SQL Server and store it in ADLS Gen2 following a medallion architecture (bronze, silver, gold). Transformed and optimized data using Azure Databricks (PySpark) with Delta Lake format, and enabled analytics through Azure Synapse serverless SQL. Developed interactive dashboards in Power BI to deliver actionable insights, and integrated Azure Key Vault and Active Directory for secure data access and pipeline management.",
+      "description": "Designed and implemented an end-to-end data pipeline on Azure to ingest, transform, and analyze data for business reporting. Built data ingestion workflows using Azure Data Factory to extract data from SQL Server and store it in ADLS Gen2 following a medallion architecture. Transformed and optimized data using Azure Databricks, PySpark, and Delta Lake, and enabled analytics through Azure Synapse serverless SQL. Developed interactive Power BI dashboards and integrated Azure Key Vault and Microsoft Entra ID for secure data access and pipeline management.",
       "git_url": "https://github.com/WestDoorDryEYE/e2e-Azure-data-project",
       "name": "End to End Azure Data Engineering Project"
     },
     {
-      "description": "Developed and implemented an ETL pipeline for an E-Hospital chatbot system to process and structure medical data from multiple sources. Extracted and transformed XML-based medical data into structured CSV formats using Python (Pandas), ensuring data quality through validation and cleaning. Collaborated with a cross-functional team to integrate the chatbot into an existing platform, enabling efficient access to healthcare information. Delivered project presentations and a promotional demo to communicate system functionality and impact.",
+      "description": "Developed and implemented an ETL pipeline for an E-Hospital chatbot system to process and structure medical data from multiple sources. Extracted and transformed XML-based medical data into structured CSV files using Python and Pandas, ensuring data quality through validation and cleaning. Collaborated with a cross-functional team to integrate the chatbot into an existing platform, enabling efficient access to healthcare information. Delivered project presentations and a promotional demo to communicate the system's functionality and impact.",
       "name": "E-Hospital Medical Chatbot System"
     }
   ],
@@ -125,5 +125,5 @@
       "Git"
     ]
   },
-  "summary": "Early-career Data Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, Spark, and cloud-based data engineering, with experience building end-to-end ETL pipelines, designing scalable data solutions, and developing machine learning workflows. Proven ability to collaborate with cross-functional teams to deliver reliable, scalable, and data-driven solutions, with a strong focus on efficiency, quality, and continuous learning."
+  "summary": "Early-career Data Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, Spark, and cloud-based data engineering, with experience building end-to-end ETL pipelines, designing scalable data solutions, and developing machine learning workflows. Motivated by solving practical data problems, I bring strong technical foundations and a continuous-learning mindset that help me adapt and contribute quickly."
 }
