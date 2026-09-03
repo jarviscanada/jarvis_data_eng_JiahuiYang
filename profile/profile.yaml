@@ -13,23 +13,22 @@ skills:
   # At least 5 skills
   proficient:
     - Python
+    - Apache Spark
     - Linux/Bash
     - ETL
-    - Machine Learning
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
+    - Databricks
+    - Microsoft Azure
+    - Machine Learning
     - Scikit-learn
     - Docker
-    - Databricks
-    - Azure
-    - Apache Spark
-
   # At least 5 skills
   familiar:
-    - Generative AI / LLMs
+    - Generative AI/LLMs
     - AWS
     - Apache Airflow
     - Apache Kafka
@@ -59,7 +58,7 @@ jarvis_projects:
       - Built an ETL pipeline following the Medallion Architecture (Bronze, Silver, and Gold) in Azure Databricks to ingest, clean, and analyze fraud detection data, create dashboards from gold tables, and orchestrate automated workflows using Databricks Jobs.
       - Built a DLT pipeline following the Medallion Architecture (Bronze, Silver, and Gold) in Databricks to automate stock market data ingestion, transformation, dashboard reporting, and workflow orchestration.
    
-  - name: "Home Credit Default Risk : End-to-End Credit Scoring System"
+  - name: "Home Credit Default Risk: End-to-End Credit Scoring System"
     git_url: "/capstone"
     description:
       - Built an end-to-end credit risk prediction system using the Home Credit dataset with over 300,000 loan applications.
@@ -84,17 +83,17 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Jr. Data/ML Engineer"
+  - title: "Jr. Data Engineer"
     company: "Jarvis"
     duration: "Mar 2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, machine learning, and analytics solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions."
+    description: "Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, analytics, and machine learning solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions."
   - title: "Data Analytics Internship"
     company: "Invision Trading"
     duration: "May 2025-Dec 2025"
     description: "Performed end-to-end data processing and feature engineering on financial datasets of over 5,000 mutual fund schemes using Python (Pandas), including data cleaning, normalization, and preparation for analysis. Developed a data-driven scoring model to identify top-performing funds based on return and risk metrics. Designed interactive Power BI dashboards to visualize key financial indicators and support data-driven investment decision-making."
 
-#List of edcuation
+#List of education
 education: 
   - school_name: "University of Ottawa"
     duration: "2022-2025"
@@ -117,8 +116,9 @@ others:
   - title: "Certificates"
     #list of items
     bullets:
-      - "Microsoft Certified: Azure Data Engineer Associate (2024)"
-      - "IBM Data Engineering Professional Certificate (2023)"
+      - "Databricks Certified Data Engineer Associate"
+      - "Microsoft Certified: Azure Data Engineer Associate"
+      - "IBM Data Engineering Professional Certificate"
 
   - title: "Activities/Hobbies"
     bullets:

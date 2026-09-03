@@ -64,15 +64,16 @@
         "Developed a production-ready Scikit-learn Pipeline and generated model validation documentation following financial industry best practices."
       ],
       "git_url": "/capstone",
-      "name": "Home Credit Default Risk : End-to-End Credit Scoring System"
+      "name": "Home Credit Default Risk: End-to-End Credit Scoring System"
     }
   ],
   "name": "Jiahui Yang",
   "others": [
     {
       "bullets": [
-        "Microsoft Certified: Azure Data Engineer Associate (2024)",
-        "IBM Data Engineering Professional Certificate (2023)"
+        "Databricks Certified Data Engineer Associate",
+        "Microsoft Certified: Azure Data Engineer Associate",
+        "IBM Data Engineering Professional Certificate"
       ],
       "title": "Certificates"
     },
@@ -88,9 +89,9 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, machine learning, and analytics solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.",
+      "description": "Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, analytics, and machine learning solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.",
       "duration": "Mar 2026-present",
-      "title": "Jr. Data/ML Engineer"
+      "title": "Jr. Data Engineer"
     },
     {
       "company": "Invision Trading",
@@ -101,14 +102,14 @@
   ],
   "skills": {
     "competent": [
-      "Scikit-learn",
-      "Docker",
       "Databricks",
-      "Azure",
-      "Apache Spark"
+      "Microsoft Azure",
+      "Machine Learning",
+      "Scikit-learn",
+      "Docker"
     ],
     "familiar": [
-      "Generative AI / LLMs",
+      "Generative AI/LLMs",
       "AWS",
       "Apache Airflow",
       "Apache Kafka",
@@ -116,9 +117,9 @@
     ],
     "proficient": [
       "Python",
+      "Apache Spark",
       "Linux/Bash",
       "ETL",
-      "Machine Learning",
       "RDBMS/SQL",
       "Agile/Scrum",
       "Git"
