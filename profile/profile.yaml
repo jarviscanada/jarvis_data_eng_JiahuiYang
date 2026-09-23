@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_JiahuiYang
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Early-career Data Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, Spark, and cloud-based data engineering, with experience building end-to-end ETL pipelines, designing scalable data solutions, and developing machine learning workflows. Motivated by solving practical data problems, I bring strong technical foundations and a continuous-learning mindset that help me adapt and contribute quickly.
+summary: Early-career AI and Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, machine learning, and data engineering, with hands-on experience building end-to-end data pipelines and predictive modeling solutions. Experienced in scalable data processing and cloud-based data platforms to deliver reliable, efficient, and data-driven solutions. Proven ability to collaborate with cross-functional teams, with a strong focus on data quality, scalability, and continuous learning.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -13,17 +13,17 @@ skills:
   # At least 5 skills
   proficient:
     - Python
-    - Apache Spark
     - Linux/Bash
+    - Machine Learning
     - ETL
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
+    - Apache Spark
     - Databricks
     - Microsoft Azure
-    - Machine Learning
     - Scikit-learn
     - Docker
   # At least 5 skills
@@ -83,7 +83,7 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Jr. Data Engineer"
+  - title: "Jr. AI/ML Engineer"
     company: "Jarvis"
     duration: "Mar 2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
