@@ -91,7 +91,7 @@
       "company": "Jarvis",
       "description": "Worked in an Agile environment following GitFlow-based development workflows to build end-to-end data engineering, analytics, and machine learning solutions using Python, SQL, Linux, Apache Spark, Databricks, Docker, and cloud platforms. Developed ETL pipelines, scalable data processing workflows, and machine learning applications that support data-driven and AI-enabled solutions.",
       "duration": "Mar 2026-present",
-      "title": "Jr. Data Engineer"
+      "title": "Jr. AI/ML Engineer"
     },
     {
       "company": "Invision Trading",
@@ -102,9 +102,9 @@
   ],
   "skills": {
     "competent": [
+      "Apache Spark",
       "Databricks",
       "Microsoft Azure",
-      "Machine Learning",
       "Scikit-learn",
       "Docker"
     ],
@@ -117,13 +117,13 @@
     ],
     "proficient": [
       "Python",
-      "Apache Spark",
       "Linux/Bash",
+      "Machine Learning",
       "ETL",
       "RDBMS/SQL",
       "Agile/Scrum",
       "Git"
     ]
   },
-  "summary": "Early-career Data Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, Spark, and cloud-based data engineering, with experience building end-to-end ETL pipelines, designing scalable data solutions, and developing machine learning workflows. Motivated by solving practical data problems, I bring strong technical foundations and a continuous-learning mindset that help me adapt and contribute quickly."
+  "summary": "Early-career AI and Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering and a Bachelor's degree in Computer Science. Skilled in Python, SQL, machine learning, and data engineering, with hands-on experience building end-to-end data pipelines and predictive modeling solutions. Experienced in scalable data processing and cloud-based data platforms to deliver reliable, efficient, and data-driven solutions. Proven ability to collaborate with cross-functional teams, with a strong focus on data quality, scalability, and continuous learning."
 }
