@@ -14,14 +14,14 @@ skills:
   proficient:
     - Python
     - Linux/Bash
-    - Apache Spark
+    - Databricks
     - ETL
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Databricks
+    - Apache Spark
     - Microsoft Azure
     - Machine Learning
     - Scikit-learn
