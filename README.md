@@ -4,9 +4,9 @@ Early-career Data Engineer with a Master's degree in Electrical and Computer Eng
 
 ## Skills
 
-**Proficient:** Python, Linux/Bash, Apache Spark, ETL, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Linux/Bash, Databricks, ETL, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Databricks, Microsoft Azure, Machine Learning, Scikit-learn, Docker
+**Competent:** Apache Spark, Microsoft Azure, Machine Learning, Scikit-learn, Docker
 
 **Familiar:** Generative AI/LLMs, AWS, Apache Airflow, Apache Kafka, Apache Hadoop
 
